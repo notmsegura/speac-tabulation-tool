@@ -406,10 +406,10 @@ run_unit_tests()
 # App Start & Deployment Metadata
 # -----------------------------------------------------------------------------
 set_site_information(
-    "CISC106 Student",
+    "Matthew Segura CISC106",
     "Speech Competition Scoring System",
     "Calculates average competitor rankings across categories.",
-    "None",
+    "CISC 106",
     "Speech competition ballot scoring system planning document",
 )
 
