@@ -408,9 +408,9 @@ run_unit_tests()
 set_site_information(
     "Matthew Segura CISC106",
     "Speech Competition Scoring System",
-    "Calculates average competitor rankings across categories.",
-    "CISC 106",
-    "Speech competition ballot scoring system planning document",
+    "None",
+    "Final Project: 0 - Selection, Final Project: 1 - Design",
+    "https://github.com/notmsegura/speac-tabulation-tool/",
 )
 
 start_server(State())
